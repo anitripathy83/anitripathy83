@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anitripathy83
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning JAVA & Python 
 - 😄 Pronouns: he/him
 
 
