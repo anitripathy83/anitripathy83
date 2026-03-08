@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anitripathy83
 - 🌱 I’m currently learning JAVA & DSA
-- 😄 Pronouns: he/him
+- 😄 CSE Sophomore @BITS Dubai
 
 
 <!---
